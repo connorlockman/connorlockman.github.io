@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Connor Lockman"
 title_separator          : "-"
 name                     : "Connor Lockman"
-description              : "Portfolio"
+description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Connor Lockman"
-  avatar           : "/images/headshot.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/lockman_headshot.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science"
   location         : "Ann Arbor, MI"
   email            :
