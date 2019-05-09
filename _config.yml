@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Connor Lockman"
+title                    : "Connor Lockman - Data Science Portfolio"
 title_separator          : "-"
 name                     : "Connor Lockman"
 description              : "Data Science Portfolio"
