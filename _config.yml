@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Connor Lockman - Data Science Portfolio"
+title                    : "Connor Lockman"
 title_separator          : "-"
-name                     : "Connor Lockman"
+name                     : "Connor Lockman - Data Science Portfolio"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
