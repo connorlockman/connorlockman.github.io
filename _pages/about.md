@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: ""
+  image: "/assets/images/IMG_1273.JPG"
 ---
 
 Data science portfolio.
