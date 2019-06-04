@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Connor Lockman"
   avatar           : "/images/lockman_headshot2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio | Master of Science in Information, Data Science & Analytics Candidate"
+  bio              : "Data Science Portfolio"
   location         : "Ann Arbor, MI"
   email            :
   links:
