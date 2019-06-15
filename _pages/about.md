@@ -35,7 +35,7 @@ Ann Arbor, MI
 Fall 2018 - Spring 2020
 
 ***
-<img src="/assets/images/spartan-helmet-png-7.png" width="10%">
+<img src="/assets/images/spartan-helmet-png-7.png" width="15%">
 ### Bachelor of Arts in Public Policy
 
 Michigan State University, College of Social Science
