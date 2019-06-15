@@ -1,7 +1,7 @@
 ---
 title:  "Writing"
 layout: archive
-permalink: /Blogs/
+permalink: /Writing/
 author_profile: true
 comments: true
 ---
