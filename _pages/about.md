@@ -11,9 +11,6 @@ I'm a current graduate student at the University of Michigan pursuing a Master o
 ## Eduction
 <img src="/assets/images/lgo_ncaa_michigan_wolverines.png" width="10%">    
 ### Master of Science in Information - Data Science
-
 The University of Michigan, School of Information
-
 Ann Arbor, MI
-
 Fall 2018 - Spring 2020
