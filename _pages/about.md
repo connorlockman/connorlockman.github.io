@@ -10,4 +10,4 @@ I'm a current graduate student at the University of Michigan pursuing a Master o
 
 ![](/assets/images/lgo_ncaa_michigan_wolverines.png)
 
-<img src="/assets/images/lgo_ncaa_michigan_wolverines.png" width="40%">
+<img src="/assets/images/lgo_ncaa_michigan_wolverines.png" width="10%">
