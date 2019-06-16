@@ -1,9 +1,10 @@
 ---
 title:  "Projects"
 layout: collection
-permalink: /Projects/
+permalink: /Project/
+collection: Project
 author_profile: true
 comments: true
 ---
 
-This is my projects page.
+This is my blog page.
