@@ -8,7 +8,3 @@ comments: true
 
 
 This is my projects page.
-
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
