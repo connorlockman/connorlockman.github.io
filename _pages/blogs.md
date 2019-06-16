@@ -1,6 +1,6 @@
 ---
 title:  "Writing"
-layout: archive
+layout: collection
 permalink: /Writing/
 author_profile: true
 comments: true
