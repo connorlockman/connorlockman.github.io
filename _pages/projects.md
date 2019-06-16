@@ -1,8 +1,7 @@
 ---
 title:  "Projects"
-layout: collection
+layout: archive
 permalink: /Project/
-collection: Project
 author_profile: true
 comments: true
 ---
