@@ -315,7 +315,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-    author_profile: true
 
 defaults:
   # _portfolio
