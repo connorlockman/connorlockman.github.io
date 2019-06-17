@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Chicago's Homicides Relative to School Locations"
-permalink: /Writing/w1
+permalink: /Writing/p1
 date:   2019-06-04
 tags: project
 ---
