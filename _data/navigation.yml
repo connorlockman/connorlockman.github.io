@@ -2,14 +2,9 @@
 main:
   - title: "Writing"
     url: /Writing/
-  - title: "Projects"
-    url: /Projects/
   - title: "About"
     url: /About/
-  - title: "Portfolio"
-    url: /Portfolio/
-  - title: "Project"
-    url: /project/
+
 
   #- title: "About"
   #  url: /about/
