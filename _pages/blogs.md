@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-This is page contains my writing about data science.  I look to translate difficult data science concepts and communicate what is happening in a fashion that enables everyone to understand.
+This page contains a selection of my data science projects.  I seek to produce analysis, visualization, prediction, and writing that enables key insights which allow people to make more informed decisions.
 
 {% for post in site.posts %}
   {% include archive-single.html %}
