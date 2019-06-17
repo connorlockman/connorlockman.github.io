@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "An Underfit Overview of Machine Learning"
+title:  "Chicago's Homicides Relative to School Locations"
 permalink: /Writing/w1
 date:   2019-06-04
 ---
