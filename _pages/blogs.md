@@ -1,7 +1,7 @@
 ---
-title:  "Writing"
+title:  "Portfolio"
 layout: archive
-permalink: /Writing/
+permalink: /Portfolio/
 author_profile: true
 comments: true
 ---
