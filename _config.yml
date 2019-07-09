@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "/assets/images/lockman_headshot2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/lockman_headshot3.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist | Graduate Student"
   location         : "Ann Arbor, MI"
   email            :
