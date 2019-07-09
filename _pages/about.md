@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-## Data ∩ Humans
+**Data ∩ Humans**
 
 My work exists at the intersection of data and humans.  I strive to use the latest data science techniques to enable people to make more informed decisions.  I believe that in doing so, we can build more sustainable decision-making systems and solve previously unsolvable problems.
 
