@@ -6,10 +6,9 @@ author_profile: true
 comments: true
 ---
 
-Machine Learning - Exploratory Data Analysis - Data Visualization - Data Communication
 Advancing the use of data in human decision making.
 
-***
+
 
 
 ## Eduction
