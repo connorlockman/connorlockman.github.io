@@ -18,6 +18,8 @@ This visualization was produced to highlight the proximity between Chicago's ele
 
  This project makes use of two data sources. The program plots where each elementary / middle school is located within the city and then plots all reported homicides that occurred across the city throughout 2018. The plotly map also contains information about the schools "ranking" as assigned by the Chicago Public Schools District.
 
+<img src="/assets/images/outputsample2.png" width="100%">
+
 
 Score | Description |
 ----- | ----------- |
