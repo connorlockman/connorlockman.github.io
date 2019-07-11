@@ -9,10 +9,10 @@ author_profile: true
 
 This visualization was produced to highlight the proximity between Chicago's elementary schools and the locations of homicides around the city during 2018.  We can see large clusters of violence on the South and West sides of the city which often occur on schools' doorsteps.
 
-<iframe width="900" height="800" frameborder="0" scrolling="yes" src="//plot.ly/~connorlockman/20.embed"></iframe>
+You can visit this link to zoom in and out in the map:
+<https://plot.ly/~connorlockman/20/#/>
 
- You can visit this link to zoom in and out in the map:
- <https://plot.ly/~connorlockman/20/#/>
+<iframe width="900" height="800" frameborder="0" scrolling="yes" src="//plot.ly/~connorlockman/20.embed"></iframe>
 
  At its heart, this is a visualization project. It leveraged api requests, pandas, caching, and culminated in the final plotly generated map.
 
