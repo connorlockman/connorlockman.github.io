@@ -6,22 +6,8 @@ author_profile: true
 comments: true
 ---
 
-**Data ∩ Humans**
-
-My work exists at the intersection of data and humans.  I strive to use the latest data science techniques to enable people to make more informed decisions.  I believe that in doing so, we can build more sustainable decision-making systems and solve previously unsolvable problems.
-
-
-## Highlighted Skills
-***
-- python
-- sql
-- r
-- pandas
-- numpy
-- jupyter notebooks
-- tableau
-- sci-kit learn
-- seaborn
+Machine Learning - Exploratory Data Analysis - Data Visualization - Data Communication
+Advancing the use of data in human decision making.
 
 ***
 
