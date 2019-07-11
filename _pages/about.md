@@ -6,7 +6,8 @@ author_profile: true
 comments: true
 ---
 
-Advancing the use of data in human decision making.
+Leveraging EDA, Data Vis, ML, and communication to build systems that advance the use of data in human decision making.
+MS Information Candidate @ University of Michigan
 
 
 
