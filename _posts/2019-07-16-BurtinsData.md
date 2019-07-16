@@ -6,7 +6,9 @@ date:   2019-07-16
 tags: project
 author_profile: true
 ---
+**Burtin's Antibiotic Data Visualized**
 
+This project leverages Tableau to communicate a classic data visualization project.  There are countless examples of this project online, but this was my take on the problem.  I follow the grammar of graphics and double down on text annotations to convey insights.  My rational is included below.
 
 <img src="/assets/images/individual_assignment_vis1.png" width="100%">
 
