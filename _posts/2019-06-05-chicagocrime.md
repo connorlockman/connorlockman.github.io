@@ -8,6 +8,7 @@ author_profile: true
 ---
 
 **Chicago's Homicides Relative to School Locations**
+
 This visualization was produced to highlight the proximity between Chicago's elementary schools and the locations of homicides around the city during 2018.  We can see large clusters of violence on the South and West sides of the city which often occur on schools' doorsteps.
 
 You can visit this link to zoom in and out in the map:
@@ -34,6 +35,7 @@ Score | Description |
 
  A large XLS file that is in the repo title "Accountability_SQRPratings_2018-2019_SchoolLevel.xls". It contains information about every Chicago Public School within the city.
  The program will access an api and request information about every crime within the city for 2018 (Over 200,000 instances) and will cache this information in "2018crime.csv".
+ 
  <https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data>
 
 **Code**
