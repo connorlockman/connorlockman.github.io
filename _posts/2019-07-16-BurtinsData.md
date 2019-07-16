@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 
-<img src="/assets/images/individual_assignment_vis.pdf" width="100%">
+<img src="/assets/images/individual_assignment_vis1.png" width="100%">
 
 **Communication Goals of Visualization**
 In my visualization, I attempt to communicate each of the three antibiotics’ effectiveness in fighting the different bacteria strains.  I thought it was important to attempt to highlight what bacterium each drug was most effective in fighting.  I also thought it was important to allow the viewer to be able to see the drug’s effectiveness against all bacterium.  My overall goal was to present all of Burtin’s data in a way that allows the viewer to make judgements about which drug they believe is both overall most effective, and most effective in certain cases against specific bacteria.
