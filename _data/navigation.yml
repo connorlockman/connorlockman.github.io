@@ -8,8 +8,8 @@ main:
 
   #- title: "About"
   #  url: /about/
-  - title: "Data Science"
-    url: /portfolio/
+  #- title: "Data Science"
+  #  url: /portfolio/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
