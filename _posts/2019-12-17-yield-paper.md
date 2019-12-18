@@ -11,3 +11,13 @@ This project uses builds on the exploratory data analysis from project 02.  We u
 
 
 <img src="/assets/images/yield_paper/yield1.png" width="100%">
+<img src="/assets/images/yield_paper/yield2.png" width="100%">
+<img src="/assets/images/yield_paper/yield3.png" width="100%">
+<img src="/assets/images/yield_paper/yield4.png" width="100%">
+<img src="/assets/images/yield_paper/yield5.png" width="100%">
+<img src="/assets/images/yield_paper/yield6.png" width="100%">
+<img src="/assets/images/yield_paper/yield7.png" width="100%">
+<img src="/assets/images/yield_paper/yield8.png" width="100%">
+<img src="/assets/images/yield_paper/yield9.png" width="100%">
+<img src="/assets/images/yield_paper/yield10.png" width="100%">
+<img src="/assets/images/yield_paper/yield11.png" width="100%">
