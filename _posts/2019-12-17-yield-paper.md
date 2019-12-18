@@ -6,7 +6,7 @@ date:   2019-12-17
 tags: project
 author_profile: true
 ---
-This project uses builds on the exploratory data analysis from project 02.  We use k-means clustering and DBSCAN to determine commonalities in the crash data and plot it using Plotly.
+This project builds on the exploratory data analysis from project 02.  We use k-means clustering and DBSCAN to determine commonalities in the crash data and plot these incidents using Plotly.
 
 
 
