@@ -1,7 +1,7 @@
 ---
 title: "Chicago Crime & School Visualization"
 layout: collection
-permalink: /Portfolio/p1
+permalink: /p/p1
 collection: portfolio
 ---
 

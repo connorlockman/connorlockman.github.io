@@ -1,7 +1,7 @@
 ---
 title: "Sample"
 layout: collection
-permalink: /Portfolio/s1
+permalink: /p/p0
 collection: portfolio
 ---
 sample.
