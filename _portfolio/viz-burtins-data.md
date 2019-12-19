@@ -4,7 +4,7 @@ layout: collection
 permalink: /p/p3
 collection: portfolio
 header:
-  teaser: /assets/images/yield/individual_assignment_vis1.png
+  teaser: /assets/images/individual_assignment_vis1.png
 author_profile: true
 ---
 
