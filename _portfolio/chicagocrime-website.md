@@ -5,7 +5,7 @@ permalink: /p/p1
 collection: portfolio
 header:
   teaser: /assets/images/chicago_port/chicago_header.png
-
+author_profile: true
 ---
 
 **Chicago's Homicides Relative to School Locations**
