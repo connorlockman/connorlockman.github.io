@@ -1,5 +1,5 @@
 ---
-title: "Chicago Crime & School Visualization"
+title: "Visualization 01: Chicago Crime"
 layout: collection
 permalink: /p/p1
 collection: portfolio
@@ -7,9 +7,6 @@ header:
   teaser: /assets/images/chicago_port/chicago_header.png
 
 ---
-
-
-
 
 **Chicago's Homicides Relative to School Locations**
 
