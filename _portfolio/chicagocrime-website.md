@@ -1,5 +1,5 @@
 ---
-title: "Visualization 01: Chicago Crime"
+title: "Mapping Chicago Crime"
 layout: collection
 permalink: /p/p1
 collection: portfolio

@@ -1,5 +1,5 @@
 ---
-title: "EDA 01: Car Crash Data in Michigan"
+title: "Exploring Car Crash Data in Michigan"
 layout: collection
 permalink: /p/p2
 collection: portfolio
