@@ -4,7 +4,7 @@ layout: collection
 permalink: /p/p1
 collection: portfolio
 header:
-  image: /assets/images/chicago_port/chicago_header.png
+  teaser: /assets/images/chicago_port/chicago_header.png
 
 ---
 
