@@ -1,13 +1,11 @@
 # main links
 main:
+  - title: "Portfolio"
+    url: /p/
   - title: "Projects"
     url: /Portfolio/
   - title: "About"
     url: /About/
-  - title: "Portfolio"
-    url: /p/
-
-
   #- title: "About"
   #  url: /about/
   #- title: "Data Science"
