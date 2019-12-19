@@ -6,4 +6,5 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 comments: true
+author_profile: true
 ---
